@@ -4,6 +4,6 @@ This RGB Guessing Game is a simple static web app built using pure HTML, CSS, an
 
 # Example Run
 
-[]https://github.com/tphuong141607/yesCODE-RGB-Guessing-Game/blob/master/RGBdemo.gif
+![](https://github.com/tphuong141607/yesCODE-RGB-Guessing-Game/blob/master/RGBdemo.gif)
 
 Click [here](https://rgb-guessing-game9.herokuapp.com/colorGame.html) to play!
