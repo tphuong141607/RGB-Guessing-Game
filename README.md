@@ -2,8 +2,10 @@
 
 This RGB Guessing Game is a simple static web app built using pure HTML, CSS, and JavaScript and Heroku for web hosting. The main reason I created this game is to learn and practice javascript.
 
+Click [here](https://rgb-guessing-game9.herokuapp.com/colorGame.html) to play!
+
 # Example Run
 
 ![](https://github.com/tphuong141607/yesCODE-RGB-Guessing-Game/blob/master/RGBdemo.gif)
 
-Click [here](https://rgb-guessing-game9.herokuapp.com/colorGame.html) to play!
+
